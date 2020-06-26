@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "dependencies": {
     "@babel/polyfill": "7.10.1",
-    "isomorphic-fetch": "^2.2.1"
+    "isomorphic-fetch": "^2.2.1",
+    "dotenv-safe": "8.2.0"
   },
   "devDependencies": {
     "@babel/cli": "7.10.1",
